@@ -1,16 +1,28 @@
-### Hi there 👋
+I write code, I guess. 
 
-<!--
-**DiscoRiver/discoriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😨 _My biggest fear is front end development._
 
-Here are some ideas to get you started:
+My hardware:
+- Macbook Pro 16" 2019
+- iPad Pro 12.9"
+- Honourable mentions:
+  - Chesterfied wingback chair & side-table
+  - A fridge stocked with Sugarfree Red Bull
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Internal company projects
+- Echo
+- Myself
+
+Some of my favourite things:
+- 👻 Anime
+  - Ghost in the Shell
+- 🥩 Food combo
+  - Steak & Whiskey
+- 📚 Book
+  - The Diamond Age, Neal Stephenson
+- Keyboard
+  - Ergodox EZ
+
+
+  
